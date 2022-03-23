@@ -1,0 +1,22 @@
+
+.cls1{
+    text-align: center;
+    border: 2px solid lightblue;
+    font-size: 60px;
+    background-color: blueviolet;
+}
+img{
+    height: 300px;
+    width: 250px;
+    padding-top: 20px;
+    border: 1px solid white;
+}
+.flex-container  {
+    display: flex;
+    background-color: rgb(43, 17, 160);
+    background-color: #2b08c5;
+  margin: 30px;
+  padding: 20px;
+  font-size: 30px;
+  }
+  
